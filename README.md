@@ -13,7 +13,7 @@ While searching the internet, I couldn't find any implementation of a video play
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/imprasukjain/Video-Player-with-Audio.git
    cd your-repo-name
    ```
 
